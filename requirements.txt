@@ -19,7 +19,6 @@ transformers>=4.25.0
 # For text processing
 regex>=2022.10.0
 unicodedata2>=15.0.0
-pytesseract>=0.3.10
 
 # For data visualization
 plotly>=5.12.0
